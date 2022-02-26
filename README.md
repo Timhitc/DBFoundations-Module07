@@ -6,7 +6,7 @@ IT FDN 130A
 
 Assignment 7 
 
-[https://github.com/Timhitc/DBFoundations-Module07] (https://github.com/Timhitc/DBFoundations-Module07)
+https://github.com/Timhitc/DBFoundations-Module07
 
 # Functions in SQL
 
